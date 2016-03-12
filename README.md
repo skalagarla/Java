@@ -1,2 +1,2 @@
 # Java
-This project is for practicing Java concepts
+Hello World!! Welcome to GitHub :-)
